@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/GitHub-yash27git-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://github.com/yash27git/Portpolio">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portpolio" />
+    <img src="https://img.shields.io/badge/Portpolio-Explore-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portpolio" />
   </a>
   <a href="https://github.com/yash27git?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-Explore-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
