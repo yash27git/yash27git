@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:0891b2&height=190&section=header&text=YAASH&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Open%20Source%20Contributor%20%7C%20Systems%20%26%20Developer%20Tooling&descAlignY=58&descSize=16" alt="Yaash profile banner" />
 
-  <h2>Hi, I'm Yaash 👋</h2>
+  <h2>Yo, I'm Yaash 👋</h2>
   <p><b>BCA student · Open-source contributor · Developer</b></p>
   <p>I like understanding how software behaves, fixing edge cases, and contributing changes that are backed by tests.</p>
 
@@ -20,8 +20,9 @@
 - 🎓 BCA student interested in practical software engineering and open source.
 - 🛠️ Contribute to systems software, backend services, developer tools, and test infrastructure.
 - 🔍 Prefer correctness, clear behavior, useful regression tests, and honest validation over cosmetic changes.
-- 🌱 Currently learning more about systems programming and applied AI/ML.
+- 🌱 Currently learning more about Cyber Security and systems programming and applied AI/ML.
 - 🎮 Also interested in game technology and the engineering behind PC ports.
+- 🎵 Also Huge interest in Music Production. 
 
 ## What I work with
 
