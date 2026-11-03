@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <b>Outside development:</b> Music production and game technology 🎧
+  <b>Outside development:</b> Music production 🎵 || Game technology 🎮 || Space 🚀
 </p>
 
 ---
