@@ -22,7 +22,7 @@
 
 ---
 
-<h2 align="center">👋 Hey, I'm Yaash</h2>
+<h2 align="center">👋 I'm Yaash</h2>
 
 <p align="center">
   BCA student • Open-source contributor • Developer
