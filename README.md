@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yash27git/yash27git/main/assets/profile-banner.svg" alt="YAASH | C++ · Systems · Backend · Developer Tooling" width="100%" />
+  <img src="https://raw.githubusercontent.com/yash27git/yash27git/main/assets/profile-banner.svg" alt="YAASH | Cyber Security · Systems · Backend · Developer Tooling" width="100%" />
   <br />
   <a href="https://github.com/yash27git"><img src="https://img.shields.io/badge/GitHub-yash27git-161b22?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://github.com/yash27git/Portpolio"><img src="https://img.shields.io/badge/Portfolio-Explore-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
