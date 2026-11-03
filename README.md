@@ -120,10 +120,10 @@
 
 <div align="center">
   <a href="https://github.com/yash27git/gow3_pc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash27git&repo=gow3_pc&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GoW3 PC repository card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=yash27git&repo=gow3_pc&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GoW3 PC repository card" />
   </a>
   <a href="https://github.com/yash27git/Portpolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash27git&repo=Portpolio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Portfolio repository card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=yash27git&repo=Portpolio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Portfolio repository card" />
   </a>
 </div>
 
@@ -132,8 +132,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yash27git&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&include_all_commits=true" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash27git&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&langs_count=6" alt="Most used languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=yash27git&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&include_all_commits=true" alt="GitHub statistics" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yash27git&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&langs_count=6" alt="Most used languages" />
   <br /><br />
   <img width="72%" src="https://streak-stats.demolab.com?user=yash27git&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
 </div>
