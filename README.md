@@ -2,10 +2,10 @@
   <img src="https://raw.githubusercontent.com/yash27git/yash27git/main/assets/profile-banner.svg" alt="YAASH | Cyber Security · Systems · Backend · Developer Tooling" width="100%" />
   <br />
   <a href="https://github.com/yash27git"><img src="https://img.shields.io/badge/GitHub-yash27git-161b22?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://github.com/yash27git/Portpolio"><img src="https://img.shields.io/badge/Portfolio-Explore-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/yash27git/Portpolio"><img src="https://img.shields.io/badge/Portfolio-Explore-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portpolio" /></a>
   <a href="https://github.com/yash27git?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   <br /><br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=70C7F5&center=true&vCenter=true&width=720&lines=Open-source+contributor;C%2B%2B+%7C+Go+%7C+TypeScript+%7C+Python;Building+software+with+careful+tests" alt="Open-source contributor | C++, Go, TypeScript, Python | Building software with careful tests" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=70C7F5&center=true&vCenter=true&width=720&lines=Open-source+contributor;C%2B%2B+%7C+Go+%7C+TypeScript+%7C+Python;Building+software+with+careful+tests" alt="Open-source contributor | C++, Go, TypeScript, Python & Cyber Security | Building with passion & careful tests" />
 </div>
 
 ---
