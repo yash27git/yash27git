@@ -147,7 +147,7 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://github.com/yash27git/Portpolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portpolio" />
+    <img src="https://img.shields.io/badge/Portpolio-Visit-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portpolio" />
   </a>
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=yash27git&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" alt="Profile views" />
