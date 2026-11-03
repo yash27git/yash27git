@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/GitHub-yash27git-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://github.com/yash27git/Portpolio">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portpolio" />
   </a>
   <a href="https://github.com/yash27git?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-Explore-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
@@ -123,7 +123,7 @@
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=yash27git&repo=gow3_pc&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GoW3 PC repository card" />
   </a>
   <a href="https://github.com/yash27git/Portpolio">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=yash27git&repo=Portpolio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Portfolio repository card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=yash27git&repo=Portpolio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Portpolio repository card" />
   </a>
 </div>
 
@@ -147,7 +147,7 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://github.com/yash27git/Portpolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portpolio" />
   </a>
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=yash27git&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" alt="Profile views" />
